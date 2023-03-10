@@ -35,5 +35,14 @@
 		"productName": "제주-20230115-일" ,
 		"price": 1
 		}
-	 ]	
+	 ],
+	"user" : [		
+		{
+		"userID": 1,
+		"email": "silentJJang@gmail.com" ,
+		"name": "이규보",
+		"idToken":"1",
+		"shoe":1,
+		}
+	]
 }	
