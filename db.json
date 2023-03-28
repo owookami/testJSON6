@@ -44,5 +44,10 @@
 		"idToken":"1",
 		"shoe":1
 		}
+	],
+	"paymentConfirm" : [		
+		{
+		"result": "no"
+		}
 	]
 }	
